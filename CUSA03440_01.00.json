@@ -1,0 +1,27 @@
+{
+    "name": "Assassin’s Creed® Chronicles: Trilogy Pack",
+    "id": "CUSA03440",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Throwables",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "26BF800",
+                    "on": "C683F000000063E97B342AFE",
+                    "off": "000000000000000000000000"
+                },
+                {
+                    "offset": "962C80",
+                    "on": "E97BCBD5019090",
+                    "off": "4489B3F0000000"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Saso"
+    ]
+}
