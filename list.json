@@ -2556,7 +2556,7 @@
             "version": "01.05",
             "url": "CUSA16261_01.05.json"
         },
-        {
+		        {
             "name": "Zombie Army Trilogy",
             "title": "CUSA01773",
             "version": "01.00",
@@ -2579,6 +2579,30 @@
             "title": "CUSA16163",
             "version": "01.01",
             "url": "CUSA16163_01.01.json"
+        },
+        {
+            "name": "TRANSFORMERS: Fall of Cybertron",
+            "title": "CUSA01845",
+            "version": "01.01",
+            "url": "CUSA01845_01.01.json"
+        },
+        {
+            "name": "RESIDENT EVIL UMBRELLA CORPS",
+            "title": "CUSA03498",
+            "version": "01.06",
+            "url": "CUSA03498_01.06.json"
+        },
+        {
+            "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+            "title": "CUSA05636",
+            "version": "01.51",
+            "url": "CUSA05636_01.51.json"
+        },
+        {
+            "name": "Need for Speed™ Hot Pursuit Remastered",
+            "title": "CUSA23265",
+            "version": "01.01",
+            "url": "CUSA23265_01.01.json"
         }
     ]
 }
