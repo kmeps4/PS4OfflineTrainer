@@ -2603,6 +2603,30 @@
             "title": "CUSA23265",
             "version": "01.01",
             "url": "CUSA23265_01.01.json"
+        },
+        {
+            "name": "Far Cry® 5",
+            "title": "CUSA05904",
+            "version": "01.12",
+            "url": "CUSA05904_01.12.json"
+        },
+        {
+            "name": "LEGO® The Incredibles",
+            "title": "CUSA09897",
+            "version": "01.03",
+            "url": "CUSA09897_01.03.json"
+        },
+        {
+            "name": "SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated",
+            "title": "CUSA14898",
+            "version": "01.03",
+            "url": "CUSA14898_01.03.json"
+        },
+        {
+            "name": "Yakuza: Like A Dragon",
+            "title": "CUSA16745",
+            "version": "01.01",
+            "url": "CUSA16745_01.01.json"
         }
     ]
 }
