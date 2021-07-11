@@ -820,7 +820,7 @@ jquery.min.js
 lazyload.min.js
 list.json
 loadingoverlay.min.js
-main.css
+Main.css
 main.js
 main_loader.gif
 search-icon.png
@@ -828,3 +828,8 @@ wallpaper.jpg
 
 NETWORK:
 *
+
+SETTINGS:
+prefer-online:
+
+# Date: 2021-10-07 21:08pm GMT-6
