@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# PS4 Offline Cache 07-06-2021
+# PS4 Offline Cache 07-10-2021
 
 BigInteger.min.js
 bootstrap.js
@@ -14,6 +14,8 @@ CUSA00009.jpg
 CUSA00009_01.00.json
 CUSA00016.jpg
 CUSA00016_01.00.json
+CUSA00021.jpg
+CUSA00021_01.00.json
 CUSA00025.jpg
 CUSA00025_01.00.json
 CUSA00049.jpg
@@ -108,6 +110,7 @@ CUSA01022.jpg
 CUSA01022_01.03.json
 CUSA01047.jpg
 CUSA01047_01.00.json
+CUSA01047_01.07.json
 CUSA01073.jpg
 CUSA01073_01.07.json
 CUSA01082.jpg
@@ -263,6 +266,7 @@ CUSA03856_01.01.json
 CUSA03877.jpg
 CUSA03877_01.00.json
 CUSA03946.jpg
+CUSA03946_01.00.json
 CUSA03946_01.07.json
 CUSA03952.jpg
 CUSA03952_01.38.json
@@ -534,6 +538,7 @@ CUSA09264_01.31.json
 CUSA09303.jpg
 CUSA09303_01.01.json
 CUSA09303_01.51.json
+CUSA09303_01.54.json
 CUSA09435.jpg
 CUSA09435_01.06.json
 CUSA09450.jpg
@@ -582,6 +587,8 @@ CUSA10454.jpg
 CUSA10454_01.00.json
 CUSA10587.jpg
 CUSA10587_1.00.json
+CUSA10633.jpg
+CUSA10633_01.01.json
 CUSA10706.jpg
 CUSA10706_01.00.json
 CUSA10812.jpg
@@ -723,6 +730,7 @@ CUSA15027.jpg
 CUSA15027_01.51.json
 CUSA15090.jpg
 CUSA15090_01.00.json
+CUSA15090_01.06.json
 CUSA15090_01.07.json
 CUSA15257.jpg
 CUSA15257_01.00.json
@@ -781,6 +789,8 @@ CUSA18659.jpg
 CUSA18659_1.01.json
 CUSA18886.jpg
 CUSA18886_01.01.json
+CUSA19035.jpg
+CUSA19035_01.04.json
 CUSA19096.jpg
 CUSA19096_01.01.json
 CUSA19637.jpg
@@ -799,26 +809,22 @@ CUSA24669_01.01.json
 error.png
 favicon.png
 font-awesome.min.css
-font.woff2
 fontawesome-webfont.eot
 fontawesome-webfont.svg
 fontawesome-webfont.ttf
 fontawesome-webfont.woff
+fontawesome-webfont.woff2
 index.html
 jOAMTdL.png
 jquery.min.js
 lazyload.min.js
 list.json
 loadingoverlay.min.js
-main.css
+Main.css
 main.js
 main_loader.gif
 search-icon.png
+wallpaper.jpg
 
 NETWORK:
 *
-
-SETTINGS:
-prefer-online:
-
-# Date: 07-06-2021 16:24 GMT-6

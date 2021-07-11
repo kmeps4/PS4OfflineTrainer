@@ -25,6 +25,12 @@
             "url": "CUSA00016_01.00.json"
         },
         {
+            "name": "WATCH_DOGS™",
+            "title": "CUSA00021",
+            "version": "01.00",
+            "url": "CUSA00021_01.00.json"
+        },
+        {
             "name": "Call of Duty® Ghosts",
             "title": "CUSA00025",
             "version": "01.00",
@@ -239,6 +245,12 @@
             "title": "CUSA01047",
             "version": "01.00",
             "url": "CUSA01047_01.00.json"
+        },
+        {
+            "name": "Ratchet & Clank™",
+            "title": "CUSA01047",
+            "version": "01.07",
+            "url": "CUSA01047_01.07.json"
         },
         {
             "name": "Gravity Rush™ Remastered",
@@ -1320,6 +1332,12 @@
             "version": "01.01",
             "url": "CUSA09303_01.01.json"
         },
+        {
+            "name": "Assassin's Creed® Odyssey",
+            "title": "CUSA09303",
+            "version": "01.54",
+            "url": "CUSA09303_01.54.json"
+        },
 		        {
             "name": "Borderlands® 3",
             "title": "CUSA08025",
@@ -1614,7 +1632,13 @@
             "version": "01.04",
             "url": "CUSA06164_01.04.json"
         },
-		        {
+        {
+            "name": "Dying Light: The Following – Enhanced Edition",
+            "title": "CUSA03946",
+            "version": "01.00",
+            "url": "CUSA03946_01.00.json"
+        },
+		{
             "name": "Dying Light: The Following – Enhanced Edition",
             "title": "CUSA03946",
             "version": "01.07",
@@ -2627,6 +2651,24 @@
             "title": "CUSA16745",
             "version": "01.01",
             "url": "CUSA16745_01.01.json"
+        },
+        {
+            "name": "Crash Bandicoot™ 4: It's About Time",
+            "title": "CUSA19035",
+            "version": "01.04",
+            "url": "CUSA19035_01.04.json"
+        },
+        {
+            "name": "Valkyria Chronicles 4",
+            "title": "CUSA10633",
+            "version": "01.01",
+            "url": "CUSA10633_01.01.json"
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "title": "CUSA15090",
+            "version": "01.06",
+            "url": "CUSA15090_01.06.json"
         }
     ]
 }
