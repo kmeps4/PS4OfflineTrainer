@@ -296,7 +296,7 @@ function CreateCard(trainer)
         '<div class="trainer-card d-flex flex-wrap rounded m-1 bg-transparent" style="height :128px;" source="',
         trainer.url,
         '" >',
-        '<div style="width :130px"><img class="coverholder m-1 rounded lazy" onerror="if (this.src !== \'error.png\') this.src = \'error.png\';" data-src="',
+        '<div style="width :130px"><img class="coverholder m-1 rounded lazy" onerror="if (this.src !== \'./error.png\') this.src = \'./error.png\';" data-src="./',
         trainer.title,
         '.jpg" style="width :118px; height :118px;"></div>',
         ' <div class="GInfo m-1 text-white" style="width :220px">',
@@ -331,7 +331,7 @@ $(document).ready(function()
 
         observer = new LazyLoad({
             elements_selector: ".lazy",
-            to_webp: true
+            to_webp: false
         });
     });
     $("#ip").val(localStorage.getItem('ip'));
@@ -375,12 +375,82 @@ function SearchCallback()
     });
     observer.update();
 }
+
+var gcard = null;
+var timer = null;
+
+
+function tCheckCard()
+{
+	if (gcard) {
+		// you click you blow up -js at it's finest
+		ProcessList		= null;
+		ProcessInfo		= null;
+		ProcessMaps		= null;
+	
+		gcard.click();
+		return;
+	}
+}
+
+function AutoSelectCard(partial)
+{
+	gcard = null;
+    $(ProcessList).each(function(ix,process)	//some(function(process)
+    {				
+		var defer = PS4.GetProcessInfo(process.pid, GetProcessInfoCallback, FailCallback),
+			filtered = defer.then(function (pi) 
+		
+		{
+			var tid = pi.titleid.trim();
+			
+			if(tid.startsWith(partial))
+			{
+				$("#list_container .trainer-card").each(function(ix, card) {
+					if ($(card).find(".cusa").text() === pi.titleid) {
+						gcard = card;
+						return false;
+					}
+				});
+			}
+			if (timer) {
+				clearTimeout(timer);
+			}
+			timer = setTimeout(tCheckCard, 100);
+
+		});
+    });
+	return gcard;
+}
+
+
+function autoSelGame()
+{
+	PS4 = new PS4RTE($("#ip").val());
+	
+    ProcessList		= $.Deferred();
+    ProcessInfo		= $.Deferred();
+    ProcessMaps		= $.Deferred();
+    SelectedProcess	= null;
+
+	
+	PS4.GetProcessList(GetProcessListCallback, FailCallback);
+	$.when(ProcessList).done(function (pl)
+	{
+		localStorage.setItem('ip', $("#ip").val());
+		ProcessList = pl;
+		
+		AutoSelectCard("CUSA");
+	});
+		
+}
+
 function TrainerClickCallback()
 {
     var trainerUrl = $(this).attr('source');
     PS4 = new PS4RTE($("#ip").val());
     var cusa = $(this).find(".cusa").text();
-    $("#cover").attr('data-src', cusa + ".jpg");
+    $("#cover").attr('data-src', "./" + cusa + ".jpg");
     observer.load($("#cover").get(0), true);
     $.LoadingOverlay("show", {
         image: "main_loader.gif",
@@ -424,6 +494,3 @@ function TrainerClickCallback()
     });
 
 }
-
-
-
