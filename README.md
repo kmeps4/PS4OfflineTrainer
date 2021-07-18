@@ -1,6 +1,6 @@
 # PS4OfflineTrainer
 PS4 Offline Trainer (TylerMods)
-Go to: http://psx4trainer.000webhostapp.com/index.html and Cache Trainer.
+Go to: http://night-king.rf.gd/index.html and Cache Trainer.
 Reebot PS4.
 Load Hen / Goldhen / Mira.
 Load WebRTE Payload.
