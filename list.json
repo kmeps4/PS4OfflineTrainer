@@ -613,6 +613,12 @@
             "url": "CUSA03991_01.06.json"
         },
         {
+            "name": "Dying Light: The Following – Enhanced Edition",
+            "title": "CUSA03991",
+            "version": "01.19",
+            "url": "CUSA03991_01.19.json"
+        },
+        {
             "name": "Titanfall™ 2",
             "title": "CUSA04027",
             "version": "01.13",
@@ -1343,6 +1349,12 @@
             "title": "CUSA08025",
             "version": "01.01",
             "url": "CUSA08025_01.01.json"
+        },
+        {
+            "name": "Borderlands® 3",
+            "title": "CUSA08025",
+            "version": "01.16",
+            "url": "CUSA08025_01.16.json"
         },
         {
             "name": "KINGDOM HEARTS Ⅲ",
@@ -2669,6 +2681,18 @@
             "title": "CUSA15090",
             "version": "01.06",
             "url": "CUSA15090_01.06.json"
+        },
+        {
+            "name": "Sniper Ghost Warrior 3",
+            "title": "CUSA04868",
+            "version": "01.09",
+            "url": "CUSA04868_01.09.json"
+        },
+        {
+            "name": "MediEvil",
+            "title": "CUSA12982",
+            "version": "01.02",
+            "url": "CUSA12982_01.02.json"
         }
     ]
 }
