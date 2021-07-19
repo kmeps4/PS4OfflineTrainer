@@ -33,10 +33,34 @@
               <script src="BigInteger.min.js"></script>
               <script src="loadingoverlay.min.js"></script>
               <script src="main.js"></script>
+
+              
 		
             </head>
-            <body class="bg-darker"><br>
+        <body class="bg-darker"><br>
         <div id="progress" style="color:white; align-content: center;"></div>
+        <button onclick="topFunction()" id="myBtn" class="myBtn" title="Go to top">Top</button>
+        <script>
+            //Get the button
+            var mybutton = document.getElementById("myBtn");
+            
+            // When the user scrolls down 20px from the top of the document, show the button
+            window.onscroll = function() {scrollFunction()};
+            
+            function scrollFunction() {
+              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+              } else {
+                mybutton.style.display = "none";
+              }
+            }
+            
+            // When the user clicks on the button, scroll to the top of the document
+            function topFunction() {
+              document.body.scrollTop = 0;
+              document.documentElement.scrollTop = 0;
+            }
+            </script>
         <div class="jumbotron transparent" style="margin: auto;height: 50%; width: 50%; border-radius: 10px; border: 5px black solid; border-color: yellow; background-position: center;background-repeat: no-repeat; background-size: 100%;backdrop-filter: blur(10px);">
             <div class="d-flex justify-content-center">
                 <input id="ip" class="form-control" type="text" placeholder="localhost or 127.0.0.1" style="max-width :320px">
