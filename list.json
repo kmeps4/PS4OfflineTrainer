@@ -2191,6 +2191,12 @@
             "url": "CUSA16221_01.01.json"
         },
         {
+            "name": "Streets of Rage 4",
+            "title": "CUSA16221",
+            "version": "01.03",
+            "url": "CUSA16221_01.03.json"
+        },
+        {
             "name": "Assassin's Creed® Valhalla",
             "title": "CUSA18522",
             "version": "01.01",
@@ -2671,6 +2677,12 @@
             "url": "CUSA19035_01.04.json"
         },
         {
+            "name": "Crash Bandicoot™ 4: It's About Time",
+            "title": "CUSA19035",
+            "version": "01.04",
+            "url": "CUSA19035_01.04.json"
+        },
+        {
             "name": "Valkyria Chronicles 4",
             "title": "CUSA10633",
             "version": "01.01",
@@ -2693,6 +2705,24 @@
             "title": "CUSA12982",
             "version": "01.02",
             "url": "CUSA12982_01.02.json"
+        },
+        {
+            "name": "MONOPOLY PLUS",
+            "title": "CUSA00773",
+            "version": "01.01",
+            "url": "CUSA00773_01.01.json"
+        },
+        {
+            "name": "Strange Brigade",
+            "title": "CUSA07905",
+            "version": "01.08",
+            "url": "CUSA07905_01.08.json"
+        },
+        {
+            "name": "Cyberpunk 2077",
+            "title": "CUSA18278",
+            "version": "01.05",
+            "url": "CUSA18278_01.05.json"
         }
     ]
 }

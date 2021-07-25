@@ -1,4 +1,4 @@
-.myBtn {
+.top {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -14,7 +14,7 @@
     border-radius: 4px;
   }
   
-  .myBtn:hover {
+  .top:hover {
     box-shadow: 0 5px 50px 0 white;
     border-radius: 10px;
   }
