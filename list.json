@@ -2717,6 +2717,48 @@
             "title": "CUSA18278",
             "version": "01.05",
             "url": "CUSA18278_01.05.json"
+        },
+        {
+            "name": "Söldner-X 2: Final Prototype Definitive Edition",
+            "title": "CUSA14451",
+            "version": "01.01",
+            "url": "CUSA14451_01.01.json"
+        },
+        {
+            "name": "Kingdom Come: Deliverance Royal Edition",
+            "title": "CUSA15436",
+            "version": "01.04",
+            "url": "CUSA15436_01.04.json"
+        },
+        {
+            "name": "Marvel's Spider-Man: Miles Morales",
+            "title": "CUSA17722",
+            "version": "01.01",
+            "url": "CUSA17722_01.01.json"
+        },
+        {
+            "name": "Tom Clancy's Ghost Recon® Wildlands",
+            "title": "CUSA02821",
+            "version": "01.29",
+            "url": "CUSA02821_01.29.json"
+        },
+        {
+            "name": "STAR WARS Jedi: Fallen Order™",
+            "title": "CUSA12529",
+            "version": "01.01",
+            "url": "CUSA12529_01.01.json"
+        },
+        {
+            "name": "Sniper Ghost Warrior Contracts",
+            "title": "CUSA14619",
+            "version": "01.08",
+            "url": "CUSA14619_01.08.json"
+        },
+        {
+            "name": "Remnant: From the Ashes",
+            "title": "CUSA13830",
+            "version": "01.20",
+            "url": "CUSA13830_01.20.json"
         }
     ]
 }
