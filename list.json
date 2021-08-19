@@ -2759,6 +2759,60 @@
             "title": "CUSA13830",
             "version": "01.20",
             "url": "CUSA13830_01.20.json"
+        },
+        {
+            "name": "Deus Ex: Mankind Divided™",
+            "title": "CUSA01836",
+            "version": "01.14",
+            "url": "CUSA01836_01.14.json"
+        },
+        {
+            "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
+            "title": "CUSA05597",
+            "version": "01.09",
+            "url": "CUSA05597_01.09.json"
+        },
+        {
+            "name": "Devil May Cry™ HD Collection",
+            "title": "CUSA09263",
+            "version": "01.00",
+            "url": "CUSA09263_01.00.json"
+        },
+        {
+            "name": "Fist of the North Star: Lost Paradise",
+            "title": "CUSA12781",
+            "version": "01.09",
+            "url": "CUSA12781_01.09.json"
+        },
+        {
+            "name": "SnowRunner",
+            "title": "CUSA17425",
+            "version": "01.02",
+            "url": "CUSA17425_01.02.json"
+        },
+        {
+            "name": "Assassin's Creed® IV Black Flag",
+            "title": "CUSA00009",
+            "version": "01.04",
+            "url": "CUSA00009_01.04.json"
+        },
+        {
+            "name": "FINAL FANTASY XV",
+            "title": "CUSA01615",
+            "version": "01.29",
+            "url": "CUSA01615_01.29.json"
+        },
+        {
+            "name": "The Outer Worlds",
+            "title": "CUSA13689",
+            "version": "01.04",
+            "url": "CUSA13689_01.04.json"
+        },
+        {
+            "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
+            "title": "CUSA19120",
+            "version": "01.00",
+            "url": "CUSA19120_01.00.json"
         }
     ]
 }
