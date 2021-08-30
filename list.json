@@ -2813,6 +2813,24 @@
             "title": "CUSA19120",
             "version": "01.00",
             "url": "CUSA19120_01.00.json"
+        },
+        {
+            "name": "Metro Redux",
+            "title": "CUSA00683",
+            "version": "01.02",
+            "url": "CUSA00683_01.02.json"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles™: Mutants in Manhattan",
+            "title": "CUSA01843",
+            "version": "01.00",
+            "url": "CUSA01843_01.00.json"
+        },
+        {
+            "name": "Destroy All Humans!",
+            "title": "CUSA14910",
+            "version": "01.06",
+            "url": "CUSA14910_01.06.json"
         }
     ]
 }
