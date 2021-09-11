@@ -2831,6 +2831,55 @@
             "title": "CUSA14910",
             "version": "01.06",
             "url": "CUSA14910_01.06.json"
+        },
+        {
+            "name": "DOOM",
+            "title": "CUSA02092",
+            "version": "01.11",
+            "url": "CUSA02092_01.11.json"
+        },
+        {
+            "name": "Assassin's Creed® Origins",
+            "title": "CUSA05625",
+            "version": "01.44",
+            "url": "CUSA05625_01.44.json"
+        },
+        {
+            "name": "MLB® The Show™ 18",
+            "title": "CUSA09450",
+            "version": "01.00",
+            "url": "CUSA09450_01.00.json"
+        },
+        {
+            "name": "MLB® The Show™ 18",
+            "title": "CUSA09450",
+            "version": "01.16",
+            "url": "CUSA09450_01.16.json"
+        },
+        {
+            "name": "Hellpoint",
+            "title": "CUSA17801",
+            "version": "01.01",
+            "url": "CUSA17801_01.01.json"
+        },
+        {
+            "name":"Deadpool",
+            "title":"CUSA03528",
+            "version":"01.00",
+            "url":"CUSA03528_01.00.json"
+        },
+
+        {   
+            "name":"Tales of Berseria",
+            "title":"CUSA05258",
+            "version":"01.00",
+            "url":"CUSA05258_01.00.json"},
+
+        {   
+            "name":"Darksiders III",
+            "title":"CUSA08798",
+            "version":"01.11",
+            "url":"CUSA08798_01.11.json"
         }
     ]
 }
