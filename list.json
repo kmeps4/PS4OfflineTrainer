@@ -2993,6 +2993,36 @@
             "title": "CUSA17732",
             "version": "01.01",
             "url": "CUSA17732_01.01.json"
-        }
+        },
+        {
+            "name": "Sundered",
+            "title": "CUSA07282",
+            "version": "01.14",
+            "url": "CUSA07282_01.14.json"
+        },
+        {
+           "name":"Bloody Zombies",
+           "title":"CUSA08543",
+           "version":"01.00",
+           "url":"CUSA08543_01.00.json"
+        },
+        {
+           "name":"Gene Rain : Wind Tower",
+           "title":"CUSA13228",
+           "version":"01.06",
+           "url":"CUSA13228_01.06.json"
+        },
+        {
+            "name":"Asterix & Obelix XXL3",
+            "title":"CUSA16983",
+            "version":"01.06",
+            "url":"CUSA16983_01.06.json"
+         },
+         {
+            "name":"Daymare 1998",
+            "title":"CUSA17082",
+            "version":"01.01",
+            "url":"CUSA17082_01.01.json"
+         }
     ]
 }
