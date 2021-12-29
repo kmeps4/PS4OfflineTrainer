@@ -3047,6 +3047,30 @@
             "title": "CUSA24103",
             "version": "1.05",
             "url": "CUSA24103_01.05.json"
+        },
+        {
+            "name": "Digimon World: Next Order",
+            "title": "CUSA05392",
+            "version": "01.00",
+            "url": "CUSA05392_01.00.json"
+        },
+        {
+            "name": "Ghost of Tsushima",
+            "title": "CUSA13323",
+            "version": "02.13",
+            "url": "CUSA13323_02.13.json"
+        },
+        {
+            "name": "Far Cry® 6",
+            "title": "CUSA15778",
+            "version": "01.06",
+            "url": "CUSA15778_01.06.json"
+        },
+        {
+            "name": "Kena: Bridge of Spirits",
+            "title": "CUSA25000",
+            "version": "01.13",
+            "url": "CUSA25000_01.13.json"
         }
     ]
 }
