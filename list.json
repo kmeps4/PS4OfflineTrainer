@@ -3119,6 +3119,72 @@
             "title": "CUSA28987",
             "version": "01.04",
             "url": "CUSA28987_01.04.json"
+        },
+        {
+            "name": "Call of Duty®: Black Ops Cold War",
+            "title": "CUSA15010",
+            "version": "01.27",
+            "url": "CUSA15010_01.27.json"
+        },
+        {
+            "name": "Far Cry® 6",
+            "title": "CUSA15778",
+            "version": "1.06",
+            "url": "CUSA15778_1.06.json"
+        },
+        {
+            "name": "Assassin's Creed® Valhalla",
+            "title": "CUSA18534",
+            "version": "05.10",
+            "url": "CUSA18534_05.10.json"
+        },
+        {
+            "name": "Assassin's Creed® Valhalla",
+            "title": "CUSA18534",
+            "version": "5.00",
+            "url": "CUSA18534_5.00.json"
+        },
+        {
+            "name": "Crysis3® Remastered",
+            "title": "CUSA18673",
+            "version": "01.01",
+            "url": "CUSA18673_01.01.json"
+        },
+        {
+            "name": "Call of Duty®: Vanguard",
+            "title": "CUSA24041",
+            "version": "01.08",
+            "url": "CUSA24041_01.08.json"
+        },
+        {
+            "name": "Call of Duty®: Black Ops Cold War",
+            "title": "CUSA24267",
+            "version": "01.27",
+            "url": "CUSA24267_01.27.json"
+        },
+        {
+            "name": "Alan Wake Remastered",
+            "title": "CUSA24653",
+            "version": "01.00",
+            "url": "CUSA24653_01.00.json"
+        },
+        {
+            "name": "Alan Wake Remastered",
+            "title": "CUSA24653",
+            "version": "01.03",
+            "url": "CUSA24653_01.03.json"
+        },
+        {
+            "name": "FIFA22",
+            "title": "CUSA27106",
+            "version": "01.00",
+            "url": "CUSA27106_01.00.json"
+        },
+        {
+            "name": "Jurassic World Evolution 2",
+            "title": "CUSA27319",
+            "version": "01.03",
+            "url": "CUSA27319_01.03.json"
         }
     ]
 }
