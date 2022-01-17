@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# PS4 Offline Cache 01/12/2022
+# PS4 Offline Cache 01/17/2022
 
 BigInteger.min.js
 bootstrap.js
@@ -190,6 +190,8 @@ CUSA02343_01.00.json
 CUSA02343_01.02.json
 CUSA02343_2_01.00.json
 CUSA02343_3_01.00.json
+CUSA02350.jpg
+CUSA02350_01.00.json
 CUSA02376.jpg
 CUSA02376_01.52.json
 CUSA02396.jpg
@@ -539,6 +541,8 @@ CUSA08543_01.00.json
 CUSA08558.jpg
 CUSA08558_01.00.json
 CUSA08558_01.01.json
+CUSA08661.jpg
+CUSA08661_01.33.json
 CUSA08670.jpg
 CUSA08670_01.01.json
 CUSA08779.jpg
@@ -796,6 +800,8 @@ CUSA14303.jpg
 CUSA14303_01.06.json
 CUSA14451.jpg
 CUSA14451_01.01.json
+CUSA14538.jpg
+CUSA14538_01.13.json
 CUSA14614.jpg
 CUSA14614_01.10.json
 CUSA14619.jpg
@@ -834,8 +840,11 @@ CUSA15526_01.08.json
 CUSA15526_01.18.json
 CUSA15526_1.08.json
 CUSA15778.jpg
+CUSA15778_001.06.json
 CUSA15778_01.06.json
 CUSA15778_1.06.json
+CUSA15927.jpg
+CUSA15927_01.09.json
 CUSA16163.jpg
 CUSA16163_01.01.json
 CUSA16221.jpg
@@ -891,6 +900,8 @@ CUSA18100.jpg
 CUSA18100_01.03.json
 CUSA18278.jpg
 CUSA18278_01.05.json
+CUSA18354.jpg
+CUSA18354_01.00.json
 CUSA18374.jpg
 CUSA18374_01.10.json
 CUSA18442.jpg
@@ -904,6 +915,7 @@ CUSA18534_01.01.json
 CUSA18534_05.00.json
 CUSA18534_05.10.json
 CUSA18534_5.00.json
+CUSA18534_5.10.json
 CUSA18659.jpg
 CUSA18659_1.01.json
 CUSA18673.jpg
@@ -931,6 +943,8 @@ CUSA20624.jpg
 CUSA20624_01.01.json
 CUSA23265.jpg
 CUSA23265_01.01.json
+CUSA23444.jpg
+CUSA23444_01.03.json
 CUSA24041.jpg
 CUSA24041_01.08.json
 CUSA24103.jpg
@@ -944,6 +958,10 @@ CUSA24669.jpg
 CUSA24669_01.01.json
 CUSA25000.jpg
 CUSA25000_01.13.json
+CUSA25234.jpg
+CUSA25234_01.08.json
+CUSA26491.jpg
+CUSA26491_01.01.json
 CUSA27106.jpg
 CUSA27106_01.00.json
 CUSA27319.jpg
@@ -961,6 +979,7 @@ fontawesome-webfont.svg
 fontawesome-webfont.ttf
 fontawesome-webfont.woff
 fontawesome-webfont.woff2
+host.py
 index.html
 jOAMTdL.png
 jquery.min.js
@@ -971,6 +990,7 @@ main.css
 main.js
 main_loader.gif
 search-icon.png
+trainer.cache
 wallpaper.jpg
 
 NETWORK:
@@ -979,4 +999,4 @@ NETWORK:
 SETTINGS:
 prefer-online:
 
-# Date: 01/12/2022 15:04:30:00 UTC-6
+# Date: 01/17/2022 13:04:30:00 UTC-6

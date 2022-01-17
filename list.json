@@ -3185,6 +3185,66 @@
             "title": "CUSA27319",
             "version": "01.03",
             "url": "CUSA27319_01.03.json"
+        },
+        {
+            "name": "Until Dawn: Rush Of Blood",
+            "title": "CUSA02350",
+            "version": "01.00",
+            "url": "CUSA02350_01.00.json"
+        },
+        {
+            "name": "hunter call of the wild",
+            "title": "CUSA08661",
+            "version": "01.33",
+            "url": "CUSA08661_01.33.json"
+        },
+        {
+            "name": "man eater",
+            "title": "CUSA14538",
+            "version": "01.13",
+            "url": "CUSA14538_01.13.json"
+        },
+        {
+            "name": "Far Cry 6 ",
+            "title": "CUSA15778",
+            "version": "001.06",
+            "url": "CUSA15778_001.06.json"
+        },
+        {
+            "name": "Fury Unleashed Demo",
+            "title": "CUSA15927",
+            "version": "01.09",
+            "url": "CUSA15927_01.09.json"
+        },
+        {
+            "name": "Yet Another Zombie Defense HD",
+            "title": "CUSA18354",
+            "version": "01.00",
+            "url": "CUSA18354_01.00.json"
+        },
+        {
+            "name": "Assassin's Creed Valhalla",
+            "title": "CUSA18534",
+            "version": "5.10",
+            "url": "CUSA18534_5.10.json"
+        },
+        {
+            "name": "Aragami 2",
+            "title": "CUSA23444",
+            "version": "01.03",
+            "url": "CUSA23444_01.03.json"
+        },
+        {
+            "name": "dark alliance",
+            "title": "CUSA25234",
+            "version": "01.08",
+            "url": "CUSA25234_01.08.json"
+        },
+        {
+            "name": "RICO: London",
+            "title": "CUSA26491",
+            "version": "01.01",
+            "url": "CUSA26491_01.01.json"
         }
     ]
 }
