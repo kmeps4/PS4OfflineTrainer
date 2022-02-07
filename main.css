@@ -1,3 +1,6 @@
+.buttontrainer
+{background-color: white;color: black;height: 5%;width: 13,7%;cursor: pointer;font-size: medium; cursor: pointer;}
+
 .top {
     display: none;
     position: fixed;

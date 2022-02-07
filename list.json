@@ -3305,6 +3305,114 @@
             "title": "CUSA28037",
             "version": "01.01",
             "url": "CUSA28037_01.01.json"
+        },
+        {
+            "name": "Bombing Busters",
+            "title": "CUSA03168",
+            "version": "01.00",
+            "url": "CUSA03168_01.00.json"
+        },
+        {
+            "name": "Horizon Chase Turbo",
+            "title": "CUSA11275",
+            "version": "01.00",
+            "url": "CUSA11275_01.00.json"
+        },
+        {
+            "name": "The TakeOver",
+            "title": "CUSA17160",
+            "version": "01.00",
+            "url": "CUSA17160_01.00.json"
+        },
+        {
+            "name": "SnowRunner",
+            "title": "CUSA17438",
+            "version": "01.28",
+            "url": "CUSA17438_01.28.json"
+        },
+        {
+            "name": "Aliens: Fireteam Elite (PS4)",
+            "title": "CUSA27462",
+            "version": "01.00",
+            "url": "CUSA27462_01.00.json"
+        },
+        {
+            "name": "Aliens: Fireteam Elite (PS4)",
+            "title": "CUSA27462",
+            "version": "01.14",
+            "url": "CUSA27462_01.14.json"
+        },
+        {
+            "name": "Aliens: Fireteam Elite (PS4)",
+            "title": "CUSA27462",
+            "version": "1.00",
+            "url": "CUSA27462_1.00.json"
+        },
+        {
+            "name": "F.I.S.T.",
+            "title": "CUSA28373",
+            "version": "01.00",
+            "url": "CUSA28373_01.00.json"
+        },
+        {
+            "name": "My Universe - Puppies and Kittens",
+            "title": "CUSA29358",
+            "version": "01.03",
+            "url": "CUSA29358_01.03.json"
+        },
+        {
+            "name": "Red Dead Redemption 2",
+            "title": "CUSA08519",
+            "version": "01.29",
+            "url": "CUSA08519_01.29.json"
+        },
+        {
+            "name": "Dying Light 2: Stay Human",
+            "title": "CUSA12555",
+            "version": "01.00",
+            "url": "CUSA12555_01.00.json"
+        },
+        {
+            "name": "Road Redemption",
+            "title": "CUSA13020",
+            "version": "01.04",
+            "url": "CUSA13020_01.04.json"
+        },
+        {
+            "name": "The Legend of Heroes: Trails of Cold Steel III",
+            "title": "CUSA15119",
+            "version": "1.02",
+            "url": "CUSA15119_1.02.json"
+        },
+        {
+            "name": "Samurai Jack: Battle Through Time",
+            "title": "CUSA16289",
+            "version": "01.00",
+            "url": "CUSA16289_01.00.json"
+        },
+        {
+            "name": "Ys IX: Monstrum Nox",
+            "title": "CUSA20414",
+            "version": "01.02",
+            "url": "CUSA20414_01.02.json"
+        },
+        {
+            "name": "Dark Alliance",
+            "title": "CUSA25234",
+            "version": "1.08",
+            "url": "CUSA25234_1.08.json"
+        },
+        {
+            "name": "Solar Ash",
+            "title": "CUSA26035",
+            "version": "01.04",
+            "url": "CUSA26035_01.04.json"
+        },
+        {
+            "name": "The Last Stand: Aftermath",
+            "title": "CUSA29192",
+            "version": "01.01",
+            "url": "CUSA29192_01.01.json"
         }
     ]
 }
