@@ -2365,12 +2365,6 @@
             "url": "CUSA13285_01.02.json"
         },
         {
-            "name": "Need for Speed™ Heat",
-            "title": "CUSA15090",
-            "version": "01.07",
-            "url": "CUSA15090_01.07.json"
-        },
-        {
             "name": "SWORD ART ONLINE Alicization Lycoris",
             "title": "CUSA18374",
             "version": "01.10",
@@ -2435,12 +2429,6 @@
             "title": "CUSA13034",
             "version": "01.02",
             "url": "CUSA13034_01.02.json"
-        },
-        {
-            "name": "Sekiro™: Shadows Die Twice",
-            "title": "CUSA13801",
-            "version": "1.05",
-            "url": "CUSA13801_1.05.json"
         },
         {
             "name": "World War Z",
@@ -2627,12 +2615,6 @@
             "title": "CUSA10633",
             "version": "01.01",
             "url": "CUSA10633_01.01.json"
-        },
-        {
-            "name": "Need for Speed™ Heat",
-            "title": "CUSA15090",
-            "version": "01.06",
-            "url": "CUSA15090_01.06.json"
         },
         {
             "name": "Dying Light: The Following – Enhanced Edition",
@@ -3181,7 +3163,7 @@
             "url": "CUSA08661_01.33.json"
         },
         {
-            "name": "man eater",
+            "name": "Maneater",
             "title": "CUSA14538",
             "version": "01.13",
             "url": "CUSA14538_01.13.json"
@@ -3313,12 +3295,6 @@
             "url": "CUSA03168_01.00.json"
         },
         {
-            "name": "Horizon Chase Turbo",
-            "title": "CUSA11275",
-            "version": "01.00",
-            "url": "CUSA11275_01.00.json"
-        },
-        {
             "name": "The TakeOver",
             "title": "CUSA17160",
             "version": "01.00",
@@ -3361,18 +3337,6 @@
             "url": "CUSA29358_01.03.json"
         },
         {
-            "name": "Red Dead Redemption 2",
-            "title": "CUSA08519",
-            "version": "01.29",
-            "url": "CUSA08519_01.29.json"
-        },
-        {
-            "name": "Dying Light 2: Stay Human",
-            "title": "CUSA12555",
-            "version": "01.00",
-            "url": "CUSA12555_01.00.json"
-        },
-        {
             "name": "Road Redemption",
             "title": "CUSA13020",
             "version": "01.04",
@@ -3413,6 +3377,1800 @@
             "title": "CUSA29192",
             "version": "01.01",
             "url": "CUSA29192_01.01.json"
+        },
+        {
+            "name": "#KILLALLZOMBIES",
+            "title": "CUSA00849",
+            "version": "01.00",
+            "url": "CUSA00849_01.00.json"
+        },
+        {
+            "name": "Dying Light 2: Stay Human",
+            "title": "CUSA12555",
+            "version": "01.00",
+            "url": "CUSA12555_01.00.json"
+        },
+        {
+            "name": "Dying Light 2: Stay Human",
+            "title": "CUSA12555",
+            "version": "01.01",
+            "url": "CUSA12555_01.01.json"
+        },
+        {
+            "name": "World War Z Aftermath",
+            "title": "CUSA14046",
+            "version": "01.31",
+            "url": "CUSA14046_01.31.json"
+        },
+        {
+            "name": "DRAGON BALL Z: KAKAROT",
+            "title": "CUSA14835",
+            "version": "01.81",
+            "url": "CUSA14835_01.81.json"
+        },
+        {
+            "name": "Kingdom Come: Deliverance Royal Edition",
+            "title": "CUSA15436",
+            "version": "01.00",
+            "url": "CUSA15436_01.00.json"
+        },
+        {
+            "name": "Immortals Fenyx Rising ™",
+            "title": "CUSA16345",
+            "version": "01.34",
+            "url": "CUSA16345_01.34.json"
+        },
+        {
+            "name": "Trials of Mana",
+            "title": "CUSA16978",
+            "version": "01.00",
+            "url": "CUSA16978_01.00.json"
+        },
+        {
+            "name": "Rogue Legacy",
+            "title": "CUSA00587",
+            "version": "01.00",
+            "url": "CUSA00587_01.00.json"
+        },
+        {
+            "name": "Salt and Sanctuary",
+            "title": "CUSA02353",
+            "version": "01.05",
+            "url": "CUSA02353_01.05.json"
+        },
+        {
+            "name": "Red Dead Redemption 2",
+            "title": "CUSA08519",
+            "version": "01.29",
+            "url": "CUSA08519_01.29.json"
+        },
+        {
+            "name": "Sky Force Reloaded",
+            "title": "CUSA09421",
+            "version": "01.03",
+            "url": "CUSA09421_01.03.json"
+        },
+        {
+            "name": "DYNASTY WARRIORS 9",
+            "title": "CUSA10421",
+            "version": "01.32",
+            "url": "CUSA10421_01.32.json"
+        },
+        {
+            "name": "The Pathless",
+            "title": "CUSA14330",
+            "version": "01.00",
+            "url": "CUSA14330_01.00.json"
+        },
+        {
+            "name": "Streets of Rage 4",
+            "title": "CUSA16221",
+            "version": "01.06",
+            "url": "CUSA16221_01.06.json"
+        },
+        {
+            "name": "Edge Of Eternity",
+            "title": "CUSA20495",
+            "version": "01.00",
+            "url": "CUSA20495_01.00.json"
+        },
+        {
+            "name": "NINJA GAIDEN 3: Razor's Edge",
+            "title": "CUSA24095",
+            "version": "01.01",
+            "url": "CUSA24095_01.01.json"
+        },
+        {
+            "name": "Cyber Shadow",
+            "title": "CUSA24216",
+            "version": "01.04",
+            "url": "CUSA24216_01.04.json"
+        },
+        {
+            "name": "NINJA GAIDEN Σ",
+            "title": "CUSA25889",
+            "version": "01.02",
+            "url": "CUSA25889_01.02.json"
+        },
+        {
+            "name": "GOD EATER 2 RAGE BURST",
+            "title": "CUSA01714",
+            "version": "01.00",
+            "url": "CUSA01714_01.00.json"
+        },
+        {
+            "name": "Torchlight III",
+            "title": "CUSA10227",
+            "version": "01.15",
+            "url": "CUSA10227_01.15.json"
+        },
+        {
+            "name": "Chronos Before the Ashes",
+            "title": "CUSA15161",
+            "version": "01.01",
+            "url": "CUSA15161_01.01.json"
+        },
+        {
+            "name": "Streets Of Rage 4",
+            "title": "CUSA16221",
+            "version": "1.6",
+            "url": "CUSA16221_1.6.json"
+        },
+        {
+            "name": "Hellpoint",
+            "title": "CUSA17806",
+            "version": "01.21",
+            "url": "CUSA17806_01.21.json"
+        },
+        {
+            "name": "Big Rumble Boxing Creed Champions",
+            "title": "CUSA25617",
+            "version": "01.00",
+            "url": "CUSA25617_01.00.json"
+        },
+        {
+            "name": "DEMON SLAYER",
+            "title": "CUSA27306",
+            "version": "01.31",
+            "url": "CUSA27306_01.31.json"
+        },
+        {
+            "name": "Hades",
+            "title": "CUSA27387",
+            "version": "01.03",
+            "url": "CUSA27387_01.03.json"
+        },
+        {
+            "name": "Tormented souls",
+            "title": "CUSA29199",
+            "version": "01.00",
+            "url": "CUSA29199_01.00.json"
+        },
+        {
+            "name": "Dragon Age™: Inquisition",
+            "title": "CUSA00220",
+            "version": "01.00",
+            "url": "CUSA00220_01.00.json"
+        },
+        {
+            "name": "DIGIMON STORY CYBER SLEUTH",
+            "title": "CUSA03185",
+            "version": "01.06",
+            "url": "CUSA03185_01.06.json"
+        },
+        {
+            "name": "GRAVITY RUSH™ 2",
+            "title": "CUSA04943",
+            "version": "01.11",
+            "url": "CUSA04943_01.11.json"
+        },
+        {
+            "name": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+            "title": "CUSA09923",
+            "version": "01.00",
+            "url": "CUSA09923_01.00.json"
+        },
+        {
+            "name": "Marvel's Avengers",
+            "title": "CUSA14030",
+            "version": "01.55",
+            "url": "CUSA14030_01.55.json"
+        },
+        {
+            "name": "Zombieland: Double Tap - Road Trip",
+            "title": "CUSA15438",
+            "version": "01.00",
+            "url": "CUSA15438_01.00.json"
+        },
+        {
+            "name": "Blaster Master Zero",
+            "title": "CUSA19647",
+            "version": "01.01",
+            "url": "CUSA19647_01.01.json"
+        },
+        {
+            "name": "Blaster Master Zero 2",
+            "title": "CUSA19648",
+            "version": "01.04",
+            "url": "CUSA19648_01.04.json"
+        },
+        {
+            "name": "Shadow Warrior 2",
+            "title": "CUSA05648",
+            "version": "01.06",
+            "url": "CUSA05648_01.06.json"
+        },
+        {
+            "name": "Cities: Skylines",
+            "title": "CUSA06407",
+            "version": "10.05",
+            "url": "CUSA06407_10.05.json"
+        },
+        {
+            "name": "Cities: Skylines",
+            "title": "CUSA06548",
+            "version": "10.05",
+            "url": "CUSA06548_10.05.json"
+        },
+        {
+            "name": "Pillars of Eternity: Complete Edition",
+            "title": "CUSA06880",
+            "version": "01.00",
+            "url": "CUSA06880_01.00.json"
+        },
+        {
+            "name": "Hellblade: Senua's Sacrifice™",
+            "title": "CUSA07527",
+            "version": "01.02",
+            "url": "CUSA07527_01.02.json"
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "title": "CUSA15090",
+            "version": "1.00",
+            "url": "CUSA15090_1.00.json"
+        },
+        {
+            "name": "Stranded Deep",
+            "title": "CUSA18449",
+            "version": "01.12",
+            "url": "CUSA18449_01.12.json"
+        },
+        {
+            "name": "Blaster Master Zero 3",
+            "title": "CUSA27578",
+            "version": "01.12",
+            "url": "CUSA27578_01.12.json"
+        },
+        {
+            "name": "Chasm",
+            "title": "CUSA01273",
+            "version": "01.08",
+            "url": "CUSA01273_01.08.json"
+        },
+        {
+            "name": "SUPER BOMBERMAN R",
+            "title": "CUSA10667",
+            "version": "01.04",
+            "url": "CUSA10667_01.04.json"
+        },
+        {
+            "name": "Control",
+            "title": "CUSA11454",
+            "version": "01.12",
+            "url": "CUSA11454_01.12.json"
+        },
+        {
+            "name": "Zombie Army 4: Dead War",
+            "title": "CUSA12596",
+            "version": "01.44",
+            "url": "CUSA12596_01.44.json"
+        },
+        {
+            "name": "Toki",
+            "title": "CUSA15162",
+            "version": "01.01",
+            "url": "CUSA15162_01.01.json"
+        },
+        {
+            "name": "Harvest Moon: One World",
+            "title": "CUSA18808",
+            "version": "01.00",
+            "url": "CUSA18808_01.00.json"
+        },
+        {
+            "name": "Call of Duty®: Vanguard",
+            "title": "CUSA29092",
+            "version": "01.08",
+            "url": "CUSA29092_01.08.json"
+        },
+        {
+            "name": "[PROTOTYPE®2]",
+            "title": "CUSA01765",
+            "version": "01.00",
+            "url": "CUSA01765_01.00.json"
+        },
+        {
+            "name": "Horizon Chase Turbo",
+            "title": "CUSA11275",
+            "version": "02.01",
+            "url": "CUSA11275_02.01.json"
+        },
+        {
+            "name": "Horizon Chase Turbo",
+            "title": "CUSA11275",
+            "version": "02.11",
+            "url": "CUSA11275_02.11.json"
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "title": "CUSA15090",
+            "version": "01.06",
+            "url": "CUSA15090_01.06.json"
+        },
+        {
+            "name": "Power Rangers - Battle for The Grid",
+            "title": "CUSA15145",
+            "version": "01.22",
+            "url": "CUSA15145_01.22.json"
+        },
+        {
+            "name": "Terminator: Resistance",
+            "title": "CUSA15306",
+            "version": "1.01",
+            "url": "CUSA15306_1.01.json"
+        },
+        {
+            "name": "KAMENRIDER memory of heroez",
+            "title": "CUSA17374",
+            "version": "01.00",
+            "url": "CUSA17374_01.00.json"
+        },
+        {
+            "name": "妖怪ウォッチ4++",
+            "title": "CUSA17589",
+            "version": "01.05",
+            "url": "CUSA17589_01.05.json"
+        },
+        {
+            "name": "Ghosts 'n Goblins Resurrection",
+            "title": "CUSA24159",
+            "version": "01.00",
+            "url": "CUSA24159_01.00.json"
+        },
+        {
+            "name": "Story Of Season Friend Mineral Town",
+            "title": "CUSA26005",
+            "version": "01.01",
+            "url": "CUSA26005_01.01.json"
+        },
+        {
+            "name": "FINAL FANTASY XV",
+            "title": "CUSA01615",
+            "version": "1.29",
+            "url": "CUSA01615_1.29.json"
+        },
+        {
+            "name": "Two Point Hospital",
+            "title": "CUSA15884",
+            "version": "01.02",
+            "url": "CUSA15884_01.02.json"
+        },
+        {
+            "name": "Yakuza: Like A Dragon",
+            "title": "CUSA16734",
+            "version": "01.10",
+            "url": "CUSA16734_01.10.json"
+        },
+        {
+            "name": "Necromunda : Hired Gun",
+            "title": "CUSA25453",
+            "version": "01.08",
+            "url": "CUSA25453_01.08.json"
+        },
+        {
+            "name": "R-TYPE FINAL 2",
+            "title": "CUSA25458",
+            "version": "01.09",
+            "url": "CUSA25458_01.09.json"
+        },
+        {
+            "name": "Record of Lodoss War -Deedlit in Wonder Labyrinth-",
+            "title": "CUSA29366",
+            "version": "01.00",
+            "url": "CUSA29366_01.00.json"
+        },
+        {
+            "name": "Blue Fire",
+            "title": "CUSA19549",
+            "version": "01.05",
+            "url": "CUSA19549_01.05.json"
+        },
+        {
+            "name": "Scarlet Nexus",
+            "title": "CUSA25132",
+            "version": "1.05",
+            "url": "CUSA25132_1.05.json"
+        },
+        {
+            "name": "DARK SOULS™ II: Scholar of the First Sin",
+            "title": "CUSA01589",
+            "version": "01.00",
+            "url": "CUSA01589_01.00.json"
+        },
+        {
+            "name": "10 Second Ninja X",
+            "title": "CUSA04692",
+            "version": "01.00",
+            "url": "CUSA04692_01.00.json"
+        },
+        {
+            "name": "Monster Boy and the Cursed Kingdom",
+            "title": "CUSA05011",
+            "version": "01.04",
+            "url": "CUSA05011_01.04.json"
+        },
+        {
+            "name": "Odin Sphere Leifthrasir",
+            "title": "CUSA05083",
+            "version": "01.00",
+            "url": "CUSA05083_01.00.json"
+        },
+        {
+            "name": "Assassin's Creed® Odyssey",
+            "title": "CUSA09303",
+            "version": "01.56",
+            "url": "CUSA09303_01.56.json"
+        },
+        {
+            "name": "Timespinner",
+            "title": "CUSA11926",
+            "version": "01.04",
+            "url": "CUSA11926_01.04.json"
+        },
+        {
+            "name": "Doom 3",
+            "title": "CUSA16286",
+            "version": "01.03",
+            "url": "CUSA16286_01.03.json"
+        },
+        {
+            "name": "ENDER LILIES : Quietus of the Knights",
+            "title": "CUSA26114",
+            "version": "01.04",
+            "url": "CUSA26114_01.04.json"
+        },
+        {
+            "name": "UnMetal",
+            "title": "CUSA27670",
+            "version": "01.04",
+            "url": "CUSA27670_01.04.json"
+        },
+        {
+            "name": "FINAL FANTASY XV POCKET EDITION HD",
+            "title": "CUSA12648",
+            "version": "01.01",
+            "url": "CUSA12648_01.01.json"
+        },
+        {
+            "name": "RESIDENT EVIL 3",
+            "title": "CUSA14123",
+            "version": "01.05",
+            "url": "CUSA14123_01.05.json"
+        },
+        {
+            "name": "Maneater",
+            "title": "CUSA14519",
+            "version": "01.05",
+            "url": "CUSA14519_01.05.json"
+        },
+        {
+            "name": "Maneater",
+            "title": "CUSA14519",
+            "version": "01.13",
+            "url": "CUSA14519_01.13.json"
+        },
+        {
+            "name": "Crysis2® Remastered",
+            "title": "CUSA18672",
+            "version": "01.01",
+            "url": "CUSA18672_01.01.json"
+        },
+        {
+            "name": "Mass Effect™ 1 Legendary Edition",
+            "title": "CUSA19515",
+            "version": "01.03",
+            "url": "CUSA19515_01.03.json"
+        },
+        {
+            "name": "Mass Effect™ 2 Legendary Edition",
+            "title": "CUSA19515",
+            "version": "1.03",
+            "url": "CUSA19515_1.03.json"
+        },
+        {
+            "name": "Marsupilami Hoobadventure",
+            "title": "CUSA27816",
+            "version": "01.01",
+            "url": "CUSA27816_01.01.json"
+        },
+        {
+            "name": "How to Survive: Storm Warning Edition",
+            "title": "CUSA00706",
+            "version": "01.00",
+            "url": "CUSA00706_01.00.json"
+        },
+        {
+            "name": "Matterfall™",
+            "title": "CUSA02475",
+            "version": "01.01",
+            "url": "CUSA02475_01.01.json"
+        },
+        {
+            "name": "Dishonored 2",
+            "title": "CUSA03604",
+            "version": "01.05",
+            "url": "CUSA03604_01.05.json"
+        },
+        {
+            "name": "Mortal Kombat XL",
+            "title": "CUSA03679",
+            "version": "01.04",
+            "url": "CUSA03679_01.04.json"
+        },
+        {
+            "name": "Mortal Kombat XL",
+            "title": "CUSA03679",
+            "version": "01.05",
+            "url": "CUSA03679_01.05.json"
+        },
+        {
+            "name": "WATCH_DOGS® 2",
+            "title": "CUSA04294",
+            "version": "01.18",
+            "url": "CUSA04294_01.18.json"
+        },
+        {
+            "name": "EARTH DEFENSE FORCE: IRON RAIN",
+            "title": "CUSA08778",
+            "version": "01.07",
+            "url": "CUSA08778_01.07.json"
+        },
+        {
+            "name": "Far Cry® 3 Classic Edition",
+            "title": "CUSA10326",
+            "version": "01.02",
+            "url": "CUSA10326_01.02.json"
+        },
+        {
+            "name": "Heroine Anthem Zero Episode 1",
+            "title": "CUSA10592",
+            "version": "01.00",
+            "url": "CUSA10592_01.00.json"
+        },
+        {
+            "name": "Mortal Kombat 11",
+            "title": "CUSA11379",
+            "version": "01.28",
+            "url": "CUSA11379_01.28.json"
+        },
+        {
+            "name": "Tales of Vesperia: Definitive Edition",
+            "title": "CUSA12287",
+            "version": "01.00",
+            "url": "CUSA12287_01.00.json"
+        },
+        {
+            "name": "Fimbul",
+            "title": "CUSA13404",
+            "version": "01.01",
+            "url": "CUSA13404_01.01.json"
+        },
+        {
+            "name": "Narcos: Rise of the Cartels",
+            "title": "CUSA13757",
+            "version": "01.03",
+            "url": "CUSA13757_01.03.json"
+        },
+        {
+            "name": "Nioh 2",
+            "title": "CUSA15526",
+            "version": "01.27",
+            "url": "CUSA15526_01.27.json"
+        },
+        {
+            "name": "Cobra Kai: The Karate Kid Saga Continues",
+            "title": "CUSA18956",
+            "version": "01.02",
+            "url": "CUSA18956_01.02.json"
+        },
+        {
+            "name": "Project Warlock",
+            "title": "CUSA19361",
+            "version": "01.04",
+            "url": "CUSA19361_01.04.json"
+        },
+        {
+            "name": "Asterix & Obelix XXL",
+            "title": "CUSA19541",
+            "version": "01.02",
+            "url": "CUSA19541_01.02.json"
+        },
+        {
+            "name": "Sniper Ghost Warrior Contracts 2",
+            "title": "CUSA20373",
+            "version": "01.05",
+            "url": "CUSA20373_01.05.json"
+        },
+        {
+            "name": "Shin Megami Tensei III Nocturne HD Remaster",
+            "title": "CUSA24919",
+            "version": "01.03",
+            "url": "CUSA24919_01.03.json"
+        },
+        {
+            "name": "NINJA GAIDEN Σ2",
+            "title": "CUSA25892",
+            "version": "01.02",
+            "url": "CUSA25892_01.02.json"
+        },
+        {
+            "name": "The Smurfs Mission Vileaf",
+            "title": "CUSA26670",
+            "version": "01.03",
+            "url": "CUSA26670_01.03.json"
+        },
+        {
+            "name": "Dark Thrones",
+            "title": "CUSA27656",
+            "version": "01.00",
+            "url": "CUSA27656_01.00.json"
+        },
+        {
+            "name": "Far Cry® 3 Blood Dragon Classic Edition",
+            "title": "CUSA29007",
+            "version": "01.00",
+            "url": "CUSA29007_01.00.json"
+        },
+        {
+            "name": "FINAL FANTASY Ⅻ THE ZODIAC AGE",
+            "title": "CUSA05531",
+            "version": "1.00",
+            "url": "CUSA05531_1.00.json"
+        },
+        {
+            "name": "Ys VIII -Lacrimosa of DANA-",
+            "title": "CUSA08570",
+            "version": "01.02",
+            "url": "CUSA08570_01.02.json"
+        },
+        {
+            "name": "Assassin's Creed® Odyssey",
+            "title": "CUSA09311",
+            "version": "01.56",
+            "url": "CUSA09311_01.56.json"
+        },
+        {
+            "name": "Little Nightmares II",
+            "title": "CUSA12779",
+            "version": "01.00",
+            "url": "CUSA12779_01.00.json"
+        },
+        {
+            "name": "Little Nightmares II",
+            "title": "CUSA12779",
+            "version": "01.05",
+            "url": "CUSA12779_01.05.json"
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "title": "CUSA15090",
+            "version": "01.07",
+            "url": "CUSA15090_01.07.json"
+        },
+        {
+            "name": "Minecraft Dungeons",
+            "title": "CUSA18797",
+            "version": "01.20",
+            "url": "CUSA18797_01.20.json"
+        },
+        {
+            "name": "Ys IX: Monstrum Nox",
+            "title": "CUSA20413",
+            "version": "01.02",
+            "url": "CUSA20413_01.02.json"
+        },
+        {
+            "name": "Aragami 2",
+            "title": "CUSA23443",
+            "version": "01.06",
+            "url": "CUSA23443_01.06.json"
+        },
+        {
+            "name": "Diablo III Reaper of Souls - Ultimate Evil Edition",
+            "title": "CUSA00433",
+            "version": "01.40",
+            "url": "CUSA00433_01.40.json"
+        },
+        {
+            "name": "WWE 2K15",
+            "title": "CUSA00781",
+            "version": "01.00",
+            "url": "CUSA00781_01.00.json"
+        },
+        {
+            "name": "Street Fighter® V",
+            "title": "CUSA01222",
+            "version": "01.00",
+            "url": "CUSA01222_01.00.json"
+        },
+        {
+            "name": "METAL GEAR SOLID V THE DEFINITIVE EXPERIENCE",
+            "title": "CUSA05610",
+            "version": "01.11",
+            "url": "CUSA05610_01.11.json"
+        },
+        {
+            "name": "Dragon Dogma Dark Arisen",
+            "title": "CUSA07340",
+            "version": "01.00",
+            "url": "CUSA07340_01.00.json"
+        },
+        {
+            "name": "Desperados III",
+            "title": "CUSA11112",
+            "version": "01.05",
+            "url": "CUSA11112_01.05.json"
+        },
+        {
+            "name": "Desperados III",
+            "title": "CUSA11318",
+            "version": "01.05",
+            "url": "CUSA11318_01.05.json"
+        },
+        {
+            "name": "Diablo 2 Resurrected",
+            "title": "CUSA28305",
+            "version": "01.11",
+            "url": "CUSA28305_01.11.json"
+        },
+        {
+            "name": "The Last Stand Aftermath",
+            "title": "CUSA29191",
+            "version": "01.01",
+            "url": "CUSA29191_01.01.json"
+        },
+        {
+            "name": "Minecraft",
+            "title": "CUSA00744",
+            "version": "02.35",
+            "url": "CUSA00744_02.35.json"
+        },
+        {
+            "name": "Mafia III: Definitive Edition",
+            "title": "CUSA03617",
+            "version": "01.12",
+            "url": "CUSA03617_01.12.json"
+        },
+        {
+            "name": "Dying Light: The Following – Enhanced Edition",
+            "title": "CUSA03977",
+            "version": "01.19",
+            "url": "CUSA03977_01.19.json"
+        },
+        {
+            "name": "Trine 4: The Nightmare Prince",
+            "title": "CUSA09869",
+            "version": "1.02",
+            "url": "CUSA09869_1.02.json"
+        },
+        {
+            "name": "Slime Rancher",
+            "title": "CUSA11650",
+            "version": "01.20",
+            "url": "CUSA11650_01.20.json"
+        },
+        {
+            "name": "Outbreak The Nightmare Chronicles",
+            "title": "CUSA24065",
+            "version": "01.00",
+            "url": "CUSA24065_01.00.json"
+        },
+        {
+            "name": "RICO London",
+            "title": "CUSA26491",
+            "version": "1.01",
+            "url": "CUSA26491_1.01.json"
+        },
+        {
+            "name": "Tails of Iron",
+            "title": "CUSA28465",
+            "version": "01.02",
+            "url": "CUSA28465_01.02.json"
+        },
+        {
+            "name": "Dying Light: The Following – Enhanced Edition",
+            "title": "CUSA03991",
+            "version": "01.33",
+            "url": "CUSA03991_01.33.json"
+        },
+        {
+            "name": "Call of Duty®: WWII (SinglePlayer)",
+            "title": "CUSA05969",
+            "version": "01.25",
+            "url": "CUSA05969_01.25.json"
+        },
+        {
+            "name": "Call of Duty®: WWII (Multiplayer)",
+            "title": "CUSA05969",
+            "version": "1.25",
+            "url": "CUSA05969_1.25.json"
+        },
+        {
+            "name": "Hitman: Blood Money HD",
+            "title": "CUSA13612",
+            "version": "01.02",
+            "url": "CUSA13612_01.02.json"
+        },
+        {
+            "name": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS",
+            "title": "CUSA14896",
+            "version": "01.02",
+            "url": "CUSA14896_01.02.json"
+        },
+        {
+            "name": "Planet Coaster",
+            "title": "CUSA17602",
+            "version": "01.00",
+            "url": "CUSA17602_01.00.json"
+        },
+        {
+            "name": "My Friend Pedro - Blood Bullets Bananas",
+            "title": "CUSA18145",
+            "version": "01.01",
+            "url": "CUSA18145_01.01.json"
+        },
+        {
+            "name": "Psychonauts 2",
+            "title": "CUSA27145",
+            "version": "01.08",
+            "url": "CUSA27145_01.08.json"
+        },
+        {
+            "name": "Diablo 3",
+            "title": "CUSA00433",
+            "version": "01.00",
+            "url": "CUSA00433_01.00.json"
+        },
+        {
+            "name": "Diablo 3",
+            "title": "CUSA00433",
+            "version": "1.40",
+            "url": "CUSA00433_1.40.json"
+        },
+        {
+            "name": "Dying Light Following The Enhanced Edtion",
+            "title": "CUSA03977",
+            "version": "01.34",
+            "url": "CUSA03977_01.34.json"
+        },
+        {
+            "name": "Monster Boy and cursed kingdom",
+            "title": "CUSA05011",
+            "version": "1.04",
+            "url": "CUSA05011_1.04.json"
+        },
+        {
+            "name": "Resident Evil™",
+            "title": "CUSA01067",
+            "version": "01.00",
+            "url": "CUSA01067_01.00.json"
+        },
+        {    
+            "name": "GreedFall",
+            "title": "CUSA14211",
+            "version": "01.05",
+            "url": "CUSA14211_01.05.json"
+        },
+        {
+            "name": "Fairy Tail",
+            "title": "CUSA17573",
+            "version": "01.05",
+            "url": "CUSA17573_01.05.json"
+        },
+        {
+            "name": "Wonder Boy: Asha in monster World",
+            "title": "CUSA26736",
+            "version": "01.00",
+            "url": "CUSA26736_01.00.json"
+        },
+        {
+            "name": "Resident Evil™",
+            "title": "CUSA01067",
+            "version": "1.00",
+            "url": "CUSA01067_1.00.json"
+        },
+        {
+            "name": "PAYDAY 2: CRIMEWAVE EDITION",
+            "title": "CUSA01761",
+            "version": "01.52",
+            "url": "CUSA01761_01.52.json"
+        },
+        {
+            "name": "Tokyo Xanadu eX+",
+            "title": "CUSA06978",
+            "version": "01.00",
+            "url": "CUSA06978_01.00.json"
+        },
+        {
+            "name": "Ni no Kuni™ II: Revenant Kingdom",
+            "title": "CUSA07345",
+            "version": "04.00",
+            "url": "CUSA07345_04.00.json"
+        },
+        {
+            "name": "The Sinking City",
+            "title": "CUSA13152",
+            "version": "01.04",
+            "url": "CUSA13152_01.04.json"
+        },
+        {
+            "name": "Grand Theft Auto III – The Definitive Edition",
+            "title": "CUSA26613",
+            "version": "01.00",
+            "url": "CUSA26613_01.00.json"
+        },
+        {
+            "name": "LOST JUDGMENT：裁かれざる記憶",
+            "title": "CUSA28183",
+            "version": "01.11",
+            "url": "CUSA28183_01.11.json"
+        },
+        {
+            "name": "The Last of Us™ Remastered",
+            "title": "CUSA00552",
+            "version": "01.11",
+            "url": "CUSA00552_01.11.json"
+        },
+        {
+            "name": "GRAVITY RUSH™ 2",
+            "title": "CUSA03694",
+            "version": "01.11",
+            "url": "CUSA03694_01.11.json"
+        },
+        {
+            "name": "GRAVITY RUSH™ 2",
+            "title": "CUSA04943",
+            "version": "1.11",
+            "url": "CUSA04943_1.11.json"
+        },
+        {
+            "name": "The Last of Us™ Part II",
+            "title": "CUSA07820",
+            "version": "01.09",
+            "url": "CUSA07820_01.09.json"
+        },
+        {
+            "name": "GRAVITY RUSH™ 2",
+            "title": "CUSA08060",
+            "version": "01.11",
+            "url": "CUSA08060_01.11.json"
+        },
+        {
+            "name": "The Last of Us™ Part II",
+            "title": "CUSA10249",
+            "version": "01.09",
+            "url": "CUSA10249_01.09.json"
+        },
+        {
+            "name": "Mega Man 11",
+            "title": "CUSA10738",
+            "version": "1.00",
+            "url": "CUSA10738_1.00.json"
+        },
+        {
+            "name": "Team Sonic Racing",
+            "title": "CUSA11115",
+            "version": "01.02",
+            "url": "CUSA11115_01.02.json"
+        },
+        {
+            "name": "Ghost of Tsushima",
+            "title": "CUSA13323",
+            "version": "01.00",
+            "url": "CUSA13323_01.00.json"
+        },
+        {
+            "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+            "title": "CUSA26616",
+            "version": "01.04",
+            "url": "CUSA26616_01.04.json"
+        },
+        {
+            "name": "Uncharted 4: A Thief’s End™",
+            "title": "CUSA00341",
+            "version": "01.33",
+            "url": "CUSA00341_01.33.json"
+        },
+        {
+            "name": "The Last of Us™ Remastered",
+            "title": "CUSA00556",
+            "version": "01.11",
+            "url": "CUSA00556_01.11.json"
+        },
+        {
+            "name": "The Order: 1886",
+            "title": "CUSA00785",
+            "version": "01.02",
+            "url": "CUSA00785_01.02.json"
+        },
+        {
+            "name": "Uncharted: The Nathan Drake Collection™",
+            "title": "CUSA02320",
+            "version": "001.02",
+            "url": "CUSA02320_001.02.json"
+        },
+        {
+            "name": "Uncharted: The Nathan Drake Collection™",
+            "title": "CUSA02320",
+            "version": "01.02",
+            "url": "CUSA02320_01.02.json"
+        },
+        {
+            "name": "Uncharted: The Nathan Drake Collection™",
+            "title": "CUSA02320",
+            "version": "1.02",
+            "url": "CUSA02320_1.02.json"
+        },
+        {
+            "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+            "title": "CUSA26619",
+            "version": "01.04",
+            "url": "CUSA26619_01.04.json"
+        },
+        {
+            "name": "The Witcher 3: Wild Hunt – Complete Edition",
+            "title": "CUSA05725",
+            "version": "01.00",
+            "url": "CUSA05725_01.00.json"
+        },
+        {
+            "name": "Uncharted: The Lost Legacy™",
+            "title": "CUSA07737",
+            "version": "01.09",
+            "url": "CUSA07737_01.09.json"
+        },
+        {
+            "name": "Adventure Time: Pirates of the Enchiridion",
+            "title": "CUSA10859",
+            "version": "01.05",
+            "url": "CUSA10859_01.05.json"
+        },
+        {
+            "name": "SIFU",
+            "title": "CUSA30202",
+            "version": "01.06",
+            "url": "CUSA30202_01.06.json"
+        },
+        {
+            "name": "Alex Kidd in Miracle Worlds DX",
+            "title": "CUSA20239",
+            "version": "01.04",
+            "url": "CUSA20239_01.04.json"
+        },
+        {
+            "name": "Asterix and Obelix - Slap them all!",
+            "title": "CUSA23755",
+            "version": "01.03",
+            "url": "CUSA23755_01.03.json"
+        },
+        {
+            "name": "Elden Ring",
+            "title": "CUSA28863",
+            "version": "01.00",
+            "url": "CUSA28863_01.00.json"
+        },
+        {
+            "name": "ELDEN RING",
+            "title": "CUSA28863",
+            "version": "01.05",
+            "url": "CUSA28863_01.05.json"
+        },
+        {
+            "name": "Just Cause 3",
+            "title": "CUSA01493",
+            "version": "1.05",
+            "url": "CUSA01493_1.05.json"
+        },
+        {
+            "name": "Dying Light: The Following – Enhanced Edition",
+            "title": "CUSA03977",
+            "version": "01.35",
+            "url": "CUSA03977_01.35.json"
+        },
+        {
+            "name": "No Man's Sky",
+            "title": "CUSA04841",
+            "version": "03.75",
+            "url": "CUSA04841_03.75.json"
+        },
+        {
+            "name": "Shadow of the Tomb Raider",
+            "title": "CUSA10872",
+            "version": "02.00",
+            "url": "CUSA10872_02.00.json"
+        },
+        {
+            "name": "Sekiro™: Shadows Die Twice",
+            "title": "CUSA12047",
+            "version": "01.05",
+            "url": "CUSA12047_01.05.json"
+        },
+        {
+            "name": "Slaps And Beans",
+            "title": "CUSA12860",
+            "version": "01.04",
+            "url": "CUSA12860_01.04.json"
+        },
+        {
+            "name": "Hell Warders",
+            "title": "CUSA13537",
+            "version": "01.00",
+            "url": "CUSA13537_01.00.json"
+        },
+        {
+            "name": "Sekiro™: Shadows Die Twice",
+            "title": "CUSA13801",
+            "version": "1.05",
+            "url": "CUSA13801_1.05.json"
+        },
+        {
+            "name": "Immortal Realms: Vampire Wars",
+            "title": "CUSA18685",
+            "version": "01.01",
+            "url": "CUSA18685_01.01.json"
+        },
+        {
+            "name": "God of War® III Remastered",
+            "title": "CUSA01623",
+            "version": "01.02",
+            "url": "CUSA01623_01.02.json"
+        },
+        {
+            "name": "Call of Duty®: Black Ops III",
+            "title": "CUSA02624",
+            "version": "01.33",
+            "url": "CUSA02624_01.33.json"
+        },
+        {
+            "name": "Tom Clancy's Ghost Recon® Wildlands",
+            "title": "CUSA02819",
+            "version": "01.31",
+            "url": "CUSA02819_01.31.json"
+        },
+        {
+            "name": "Fallout 4",
+            "title": "CUSA02962",
+            "version": "01.22",
+            "url": "CUSA02962_01.22.json"
+        },
+        {
+            "name": "DRAGON BALL XENOVERSE 2",
+            "title": "CUSA05088",
+            "version": "01.29",
+            "url": "CUSA05088_01.29.json"
+        },
+        {
+            "name": "DAYS GONE",
+            "title": "CUSA09175",
+            "version": "01.81",
+            "url": "CUSA09175_01.81.json"
+        },
+        {
+            "name": "Ghostbusters: The Video Game Remastered",
+            "title": "CUSA15493",
+            "version": "01.01",
+            "url": "CUSA15493_01.01.json"
+        },
+        {
+            "name": "Kingdom Come: Deliverance Royal Edition",
+            "title": "CUSA15436",
+            "version": "01.04",
+            "url": "CUSA15436_01.04.json"
+        },
+        {
+            "name": "Kingdom Come: Deliverance Royal Edition",
+            "title": "CUSA15436",
+            "version": "1.04",
+            "url": "CUSA15436_1.04.json"
+        },
+        {
+            "name": "Sniper Elite 5",
+            "title": "CUSA16164",
+            "version": "01.06",
+            "url": "CUSA16164_01.06.json"
+        },
+        {
+            "name": "ELEX II",
+            "title": "CUSA28134",
+            "version": "01.05",
+            "url": "CUSA28134_01.05.json"
+        },
+        {
+            "name": "Horizon Forbidden West",
+            "title": "CUSA24705",
+            "version": "01.04",
+            "url": "CUSA24705_01.04.json"
+        },
+        {
+            "name": "SIFU",
+            "title": "CUSA25761",
+            "version": "01.11",
+            "url": "CUSA25761_01.11.json"
+        },
+        {
+            "name": "Prey",
+            "title": "CUSA04493",
+            "version": "01.12",
+            "url": "CUSA04493_01.12.json"
+        },
+        {
+            "name": "Back 4 Blood",
+            "title": "CUSA14275",
+            "version": "01.08",
+            "url": "CUSA14275_01.08.json"
+        },
+        {
+            "name": "Hot Wheels Unleashed",
+            "title": "CUSA25502",
+            "version": "01.07",
+            "url": "CUSA25502_01.07.json"
+        },
+        {
+            "name": "Elden Ring",
+            "title": "CUSA28863",
+            "version": "1.05",
+            "url": "CUSA28863_1.05.json"
+        },
+        {
+            "name": "inFAMOUS™ First Light",
+            "title": "CUSA00897",
+            "version": "1.04",
+            "url": "CUSA00897_1.04.json"
+        },
+        {
+            "name": "FINAL FANTASY X/X-2 HD Remaster",
+            "title": "CUSA01244",
+            "version": "01.01",
+            "url": "CUSA01244_01.01.json"
+        },
+        {
+            "name": "Mount & Blade: Warband",
+            "title": "CUSA03263",
+            "version": "01.03",
+            "url": "CUSA03263_01.03.json"
+        },
+        {
+            "name": "Need for Speed™ Payback",
+            "title": "CUSA05986",
+            "version": "01.10",
+            "url": "CUSA05986_01.10.json"
+        },
+        {
+            "name": "Just Cause 4",
+            "title": "CUSA09254",
+            "version": "1.31",
+            "url": "CUSA09254_1.31.json"
+        },
+        {
+            "name": "SENRAN KAGURA Burst Re:Newal",
+            "title": "CUSA11712",
+            "version": "01.02",
+            "url": "CUSA11712_01.02.json"
+        },
+        {
+            "name": "Sekiro™: Shadows Die Twice",
+            "title": "CUSA12047",
+            "version": "01.06",
+            "url": "CUSA12047_01.06.json"
+        },
+        {
+            "name": "STAR WARS Jedi: Fallen Order™",
+            "title": "CUSA12529",
+            "version": "01.12",
+            "url": "CUSA12529_01.12.json"
+        },
+        {
+            "name": "Sekiro™: Shadows Die Twice",
+            "title": "CUSA13801",
+            "version": "01.06",
+            "url": "CUSA13801_01.06.json"
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "title": "CUSA15090",
+            "version": "1.07",
+            "url": "CUSA15090_1.07.json"
+        },
+        {
+            "name": "Horizon Forbidden West",
+            "title": "CUSA28561",
+            "version": "01.17",
+            "url": "CUSA28561_01.17.json"
+        },
+        {
+            "name": "The Cruel King and the Great Hero",
+            "title": "CUSA28600",
+            "version": "01.00",
+            "url": "CUSA28600_01.00.json"
+        },
+        {
+            "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+            "title": "CUSA29578",
+            "version": "01.04",
+            "url": "CUSA29578_01.04.json"
+        },
+        {
+            "name": "Hot Wheels Unleashed",
+            "title": "CUSA25502",
+            "version": "01.16",
+            "url": "CUSA25502_01.16.json"
+        },
+        {
+            "name": "Sonic Mania",
+            "title": "CUSA07010",
+            "version": "01.04",
+            "url": "CUSA07010_01.04.json"
+        },
+        {
+            "name": "Stellaris: Console Edition",
+            "title": "CUSA07254",
+            "version": "01.00",
+            "url": "CUSA07254_01.00.json"
+        },
+        {
+            "name": "Stellaris: Console Edition",
+            "title": "CUSA07254",
+            "version": "01.52",
+            "url": "CUSA07254_01.52.json"
+        },
+        {
+            "name": "Stellaris: Console Edition",
+            "title": "CUSA07254",
+            "version": "1.00",
+            "url": "CUSA07254_1.00.json"
+        },
+        {
+            "name": "Asterix & Obelix XXL2",
+            "title": "CUSA13367",
+            "version": "01.03",
+            "url": "CUSA13367_01.03.json"
+        },
+        {
+            "name": "Horizon Forbidden West",
+            "title": "CUSA24705",
+            "version": "01.17",
+            "url": "CUSA24705_01.17.json"
+        },
+        {
+            "name": "Dying Light 2: Stay Human",
+            "title": "CUSA12584",
+            "version": "01.15",
+            "url": "CUSA12584_01.15.json"
+        },
+        {
+            "name": "Back 4 Blood",
+            "title": "CUSA14275",
+            "version": "01.00",
+            "url": "CUSA14275_01.00.json"
+        },
+        {
+            "name": "The Ascent",
+            "title": "CUSA14683",
+            "version": "01.04",
+            "url": "CUSA14683_01.04.json"
+        },
+        {
+            "name": "Weird West",
+            "title": "CUSA17598",
+            "version": "01.11",
+            "url": "CUSA17598_01.11.json"
+        },
+        {
+            "name": "New Super Luckys Tale",
+            "title": "CUSA20302",
+            "version": "01.00",
+            "url": "CUSA20302_01.00.json"
+        },
+        {
+            "name": "WWE 2K22",
+            "title": "CUSA25882",
+            "version": "01.07",
+            "url": "CUSA25882_01.07.json"
+        },
+        {
+            "name": "WWE 2K22",
+            "title": "CUSA25882",
+            "version": "01.15",
+            "url": "CUSA25882_01.15.json"
+        },
+        {
+            "name": "Elden Ring",
+            "title": "CUSA28863",
+            "version": "01.08",
+            "url": "CUSA28863_01.08.json"
+        },
+        {
+            "name": "Crysis® Remastered",
+            "title": "CUSA18659",
+            "version": "01.03",
+            "url": "CUSA18659_01.03.json"
+        },
+        {
+            "name": "Cuphead",
+            "title": "CUSA20499",
+            "version": "01.04",
+            "url": "CUSA20499_01.04.json"
+        },
+        {
+            "name": "Five Nights at Freddy's: Security Breach",
+            "title": "CUSA24172",
+            "version": "01.11",
+            "url": "CUSA24172_01.11.json"
+        },
+        {
+            "name": "Stray",
+            "title": "CUSA24899",
+            "version": "01.03",
+            "url": "CUSA24899_01.03.json"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+            "title": "CUSA30991",
+            "version": "01.02",
+            "url": "CUSA30991_01.02.json"
+        },
+        {
+            "name": "Ratchet & Clank™",
+            "title": "CUSA01073",
+            "version": "01.09",
+            "url": "CUSA01073_01.09.json"
+        },
+        {
+            "name": "ZOMBI",
+            "title": "CUSA03535",
+            "version": "01.00",
+            "url": "CUSA03535_01.00.json"
+        },
+        {
+            "name": "RESIDENT EVIL 2",
+            "title": "CUSA09171",
+            "version": "01.05",
+            "url": "CUSA09171_01.05.json"
+        },
+        {
+            "name": "Hungry Shark® World",
+            "title": "CUSA12378",
+            "version": "01.01",
+            "url": "CUSA12378_01.01.json"
+        },
+        {
+            "name": "Assassin's Creed® Valhalla",
+            "title": "CUSA18522",
+            "version": "06.30",
+            "url": "CUSA18522_06.30.json"
+        },
+        {
+            "name": "Sonic Colors: Ultimate",
+            "title": "CUSA19351",
+            "version": "01.05",
+            "url": "CUSA19351_01.05.json"
+        },
+        {
+            "name": "Rayman Legends",
+            "title": "CUSA00031",
+            "version": "01.00",
+            "url": "CUSA00031_01.00.json"
+        },
+        {
+            "name": "Darksiders II Deathinitive Edition",
+            "title": "CUSA02420",
+            "version": "01.02",
+            "url": "CUSA02420_01.02.json"
+        },
+        {
+            "name": "how to survive 2",
+            "title": "CUSA07006",
+            "version": "01.02",
+            "url": "CUSA07006_01.02.json"
+        },
+        {
+            "name": "Doom Eternal",
+            "title": "CUSA13338",
+            "version": "01.23",
+            "url": "CUSA13338_01.23.json"
+        },
+        {
+            "name": "Hot Wheels Unleashed",
+            "title": "CUSA25502",
+            "version": "01.17",
+            "url": "CUSA25502_01.17.json"
+        },
+        {
+            "name": "Wolfenstein®: The Old Blood",
+            "title": "CUSA01540",
+            "version": "01.00",
+            "url": "CUSA01540_01.00.json"
+        },
+        {
+            "name": "Wolfenstein®: The Old Blood",
+            "title": "CUSA01540",
+            "version": "01.01",
+            "url": "CUSA01540_01.01.json"
+        },
+        {
+            "name": "Bioshock Infinite: The Complete Edition",
+            "title": "CUSA03980",
+            "version": "01.02",
+            "url": "CUSA03980_01.02.json"
+        },
+        {
+            "name": "No Man's Sky",
+            "title": "CUSA04841",
+            "version": "04.01",
+            "url": "CUSA04841_04.01.json"
+        },
+        {
+            "name": "Nex Machina",
+            "title": "CUSA05588",
+            "version": "01.06",
+            "url": "CUSA05588_01.06.json"
+        },
+        {
+            "name": "Indivisible",
+            "title": "CUSA07000",
+            "version": "01.11",
+            "url": "CUSA07000_01.11.json"
+        },
+        {
+            "name": "FINAL FANTASY VII REMAKE",
+            "title": "CUSA07211",
+            "version": "01.01",
+            "url": "CUSA07211_001.01.json"
+        },
+        {
+            "name": "Stellaris: Console Edition",
+            "title": "CUSA07254",
+            "version": "06.00",
+            "url": "CUSA07254_06.00.json"
+        },
+        {
+            "name": "God of War",
+            "title": "CUSA07408",
+            "version": "01.35",
+            "url": "CUSA07408_01.35.json"
+        },
+        {
+            "name": "God of War",
+            "title": "CUSA07410",
+            "version": "01.35",
+            "url": "CUSA07410_01.35.json"
+        },
+        {
+            "name": "Devil May Cry® HD Collection (1)",
+            "title": "CUSA09407",
+            "version": "01.00",
+            "url": "CUSA09407_01.00.json"
+        },
+        {
+            "name": "Devil May Cry®️ HD Collection (2)",
+            "title": "CUSA09407",
+            "version": "001.00",
+            "url": "CUSA09407_001.00.json"
+        }, 
+        {
+            "name": "Devil May Cry®️ HD Collection (3)",
+            "title": "CUSA09407",
+            "version": "0001.00",
+            "url": "CUSA09407_0001.00.json"
+        }, 
+        {
+            "name": "A Plague Tale: Innocence",
+            "title": "CUSA10812",
+            "version": "01.09",
+            "url": "CUSA10812_01.09.json"
+        },
+        {
+            "name": "Ancestors: The Humankind Odyssey",
+            "title": "CUSA13248",
+            "version": "01.01",
+            "url": "CUSA13248_01.01.json"
+        },
+        {
+            "name": "DOOM Eternal",
+            "title": "CUSA13275",
+            "version": "01.23",
+            "url": "CUSA13275_01.23.json"
+        },
+        {
+            "name": "Remnant: From the Ashes",
+            "title": "CUSA13830",
+            "version": "01.24",
+            "url": "CUSA13830_01.24.json"
+        },
+        {
+            "name": "DYSMANTLE",
+            "title": "CUSA15128",
+            "version": "01.04",
+            "url": "CUSA15128_01.04.json"
+        },
+        {
+            "name": "YAKUZA 5",
+            "title": "CUSA15363",
+            "version": "01.01",
+            "url": "CUSA15363_01.01.json"
+        },
+        {
+            "name": "Frostpunk",
+            "title": "CUSA15690",
+            "version": "01.02",
+            "url": "CUSA15690_01.02.json"
+        },
+        {
+            "name": "The Survivalists",
+            "title": "CUSA16146",
+            "version": "01.01",
+            "url": "CUSA16146_01.01.json"
+        },
+        {
+            "name": "Gunvolt Chronicles: Luminous Avenger iX",
+            "title": "CUSA16446",
+            "version": "01.04",
+            "url": "CUSA16446_01.04.json"
+        },
+        {
+            "name": "Crysis® Remastered",
+            "title": "CUSA18671",
+            "version": "01.03",
+            "url": "CUSA18671_01.03.json"
+        },
+        {
+            "name": "NieR Replicant ver.1.22474487139...",
+            "title": "CUSA18742",
+            "version": "01.03",
+            "url": "CUSA18742_01.03.json"
+        },
+        {
+            "name": "Kena: Bridge of Spirits",
+            "title": "CUSA24853",
+            "version": "01.00",
+            "url": "CUSA24853_01.00.json"
+        },
+        {
+            "name": "Wife Quest",
+            "title": "CUSA27782",
+            "version": "01.00",
+            "url": "CUSA27782_01.00.json"
+        },
+        {
+            "name": "Bloodstained: Ritual of the Night",
+            "title": "CUSA07953",
+            "version": "01.40",
+            "url": "CUSA07953_01.40.json"
+        },
+        {
+            "name": "Elden Ring",
+            "title": "CUSA28863",
+            "version": "01.09",
+            "url": "CUSA28863_01.09.json"
+        },
+        {
+            "name": "Eldest Souls",
+            "title": "CUSA28529",
+            "version": "01.02",
+            "url": "CUSA28529_01.02.json"
+        },
+        {
+            "name": "GRID Legends",
+            "title": "CUSA28261",
+            "version": "03.11",
+            "url": "CUSA28261_03.11.json"
+        },
+        {
+            "name": "Horizon Forbbiden West",
+            "title": "CUSA24705",
+            "version": "01.18",
+            "url": "CUSA24705_01.18.json"
+        },
+        {
+            "name": "Horizon Forbbiden West",
+            "title": "CUSA28561",
+            "version": "01.18",
+            "url": "CUSA28561_01.18.json"
+        },
+        {
+            "name": "Remnant: From The Ashes",
+            "title": "CUSA10507",
+            "version": "01.24",
+            "url": "CUSA10507_01.24.json"
+        },
+        {
+            "name": "Resident Evil Revelations 2",
+            "title": "CUSA00924",
+            "version": "01.05",
+            "url": "CUSA00924_01.05.json"
+        },
+        {
+            "name": "Saints Row",
+            "title": "CUSA26458",
+            "version": "01.02",
+            "url": "CUSA26458_01.02.json"
+        },
+        {
+            "name": "Saints Row",
+            "title": "CUSA26458",
+            "version": "01.06",
+            "url": "CUSA26458_01.06.json"
+        },
+        {
+            "name": "Skul",
+            "title": "CUSA27428",
+            "version": "01.16",
+            "url": "CUSA27428_01.16.json"
+        },
+        {
+            "name": "Terminator Resistance",
+            "title": "CUSA17812",
+            "version": "01.02",
+            "url": "CUSA17812_01.02.json"
+        },
+        {
+            "name": "Thief",
+            "title": "CUSA00250",
+            "version": "01.00",
+            "url": "CUSA00250_01.00.json"
+        },
+        {
+            "name": "Ultra Age",
+            "title": "CUSA14637",
+            "version": "02.02",
+            "url": "CUSA14637_02.02.json"
+        },
+        {
+            "name": "Fury Unleashed",
+            "title": "CUSA15927",
+            "version": "01.10",
+            "url": "CUSA15927_01.10.json"
+        },
+        {
+            "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+            "title": "CUSA07202",
+            "version": "02.10",
+            "url": "CUSA07202_02.10.json"
+        },
+        {
+            "name": "Aliens: Fireteam Elite (PS4)",
+            "title": "CUSA27462",
+            "version": "01.32",
+            "url": ".games/CUSA27462_01.32.json"
+        },
+        {
+            "name": "Assassin's Creed Valhalla",
+            "title": "CUSA18522",
+            "version": "07.00",
+            "url": "CUSA18522_07.00.json"
+        },
+        {
+            "name": "Assassin's Creed Valhalla",
+            "title": "CUSA18522",
+            "version": "07.10",
+            "url": "CUSA18522_07.10.json"
+        },
+        {
+            "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+            "title": "CUSA16458",
+            "version": "01.07",
+            "url": "CUSA16458_01.07.json"
         }
     ]
 }
